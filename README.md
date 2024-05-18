@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boyina sruthi
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning java-fullstack, MERN stack
-- 💞️ I’m looking to get into good company to showcase my skills and improve my skills
+- I’m looking to get into good company to showcase my skills and improve my skills
 - 📫 reach me on: boyinayoshitha20@gmail.com
 - A quick learner...
 
